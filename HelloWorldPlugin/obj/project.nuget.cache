@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GAhCO8l81tY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Valentin\\Desktop\\RandomPickerPlugin\\HelloWorldPlugin\\HelloWorldPlugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Valentin\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.18\\microsoft.netcore.app.ref.8.0.18.nupkg.sha512",
+    "C:\\Users\\Valentin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.18\\microsoft.windowsdesktop.app.ref.8.0.18.nupkg.sha512",
+    "C:\\Users\\Valentin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.18\\microsoft.aspnetcore.app.ref.8.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
