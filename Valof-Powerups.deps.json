@@ -6,12 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "HelloWorldPlugin/1.0.0": {
+      "Valof-Powerups/1.0.0": {
         "dependencies": {
           "CounterStrikeSharp.API": "1.0.327"
         },
         "runtime": {
-          "HelloWorldPlugin.dll": {}
+          "Valof-Powerups.dll": {}
         }
       },
       "CounterStrikeSharp.API/1.0.327": {
@@ -543,7 +543,7 @@
     }
   },
   "libraries": {
-    "HelloWorldPlugin/1.0.0": {
+    "Valof-Powerups/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
