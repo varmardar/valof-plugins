@@ -280,7 +280,7 @@ public HookResult OnRoundFreezeEnd(EventRoundFreezeEnd @event, GameEventInfo inf
     
     foreach (var player in players)
     {
-        if (player == null || !player.IsValid || player.IsBot)
+        if (player == null || !player.IsValid )
             continue;
 
         // Automatisches Update für alle PowerUps
