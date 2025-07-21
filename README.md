@@ -4,7 +4,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Valof-PowerUps</h3>
+  <h3 align="center">CS2 Valof-PowerUps</h3>
 
   <p align="center">
     PowerUps which make your internal games more fun
