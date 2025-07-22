@@ -31,23 +31,10 @@
 <div>
   <h3>Available Powerups</h3>
 
-  <table>
-
-    <th>
-      <td>PowerUp Name</td>
-      <td>PowerUp Description</td>
-      <td>Implemented</td>
-    </th>
-
-  <tr>
-    <td>Big Helmet PowerUp</td>
-      <td>Player is immune to headshots</td>
-      <td>✅</td>
-  </tr>
-
-
-
-  </table>
+| PowerUp Name | PowerUp Description | Implemented |
+| :---         |     :---      |          :---: |
+| Big Helmet PowerUp   | Player is immune to headshots     | ✅    |
+| Body Kevlar PowerUp     | Player is immune to all hits butheadshots       | ✅       |
 </div>
 
 
