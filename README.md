@@ -35,6 +35,23 @@
 | :---         |     :---      |          :---: |
 | Big Helmet PowerUp   | Player is immune to headshots     | ✅    |
 | Body Kevlar PowerUp     | Player is immune to all hits butheadshots       | ✅       |
+| Chicken Model PowerUp     | Player model is changed with a chicken       | ✅       |
+| Damage Reduction PowerUp     | All bodyshots deal 10 damage and all headshots 20 damage       | ✅       |
+| Death Bomb PowerUp     | After player is killed, he will explode and deal damage to nearby players       | ✅       |
+| Decoy PowerUp     | Player is able to place limited decoys of his own model       | ✅       |
+| ExtraHealth PowerUp     | At the beginning of the round the player receives between 100-200 Extra Health       | ✅       |
+| Infinite Ammo PowerUp    | Player has infinite ammo on all his weapons in this round       | ✅       |
+| Invisibility PowerUp     | Player is invisible while holding his knife       | ✅       |
+| LowGravity PowerUp     | Player gravity gets decreased in this round alowing higher jumps       | ✅       |
+| OneShotDeagle PowerUp     | Player is given a Deagle with 10 Bullets, thats able to one shot every player       | ✅       |
+| OP Zeus PowerUp     | Player is given a Zeus, with unlimited range and decreased reload time      | ✅       |
+| SpeedBoost PowerUp     | Players speed is doubled       | ✅       |
+| Swap with Enemy PowerUp     | Player is allowed to swap places with a random enemy       | ✅       |
+| TeleportOnKill PowerUp      | After killing an player, the player is automatically teleported to the position of the victim       | ✅       |
+| Teleport to Enemy Spawn PowerUp     | After a cooldown timer the player is allowed to teleport to the enemy spawn      | ✅       |
+| Teleport to own Spawn PowerUp     | After a cooldown timer the player is allowed to teleport back to the own spawn      | ✅       |
+| Wallhack PowerUp     | Player is able to see other players glow through walls      | ✅       |
+
 </div>
 
 
