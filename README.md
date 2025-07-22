@@ -11,8 +11,8 @@
   </p>
 </div>
 
-<div align="center">
-  <h3 align="center">First installation</h3>
+<div>
+  <h3>First installation</h3>
 
   <p>
     To install this plugin you need Metamod and Counterstrikesharp on your server, a tutorial can be found on this page
