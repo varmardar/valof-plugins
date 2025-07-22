@@ -10,3 +10,13 @@
     PowerUps which make your internal games more fun
   </p>
 </div>
+
+<div align="center">
+  <h3 align="center">First installation</h3>
+
+  <p>
+    To install this plugin you need Metamod and Counterstrikesharp on your server, a tutorial can be found on this page
+  </p>
+  <a href="https://www.ghostcap.com/how-to-install-cs2-plugins">Install Metamod and Counterstrike Sharp</a>
+</div>
+
