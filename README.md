@@ -30,7 +30,7 @@
   <h3>Changing gamedata.json</h3>
   <p>For all PowerUps to work without errors you have to update your <b>/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json</b>, just add the following lines in json a</p>
   <pre>
-  ```json
+
 {
   "GameTraceManager": {
     "signatures": {
@@ -60,7 +60,7 @@
       "linux": "55 48 89 E5 41 57 41 56 49 89 CE 41 55 4D 89 C5 41 54 49 89 D4 53 4C 89 CB"
     }
 }
- ``` </pre>
+</pre>
 
 
 
