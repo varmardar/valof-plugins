@@ -33,13 +33,16 @@
 
 | PowerUp Name | PowerUp Description | Implemented |
 | :---         |     :---      |          :---: |
+| Anti Flash PowerUp   | Player can not be flashed     | ✅    |
 | Big Helmet PowerUp   | Player is immune to headshots     | ✅    |
 | Body Kevlar PowerUp     | Player is immune to all hits butheadshots       | ✅       |
+| Bunnyhop Model PowerUp     | Allows player to bunnyhop without restrictions      | ✅       |
 | Chicken Model PowerUp     | Player model is changed with a chicken       | ✅       |
 | Damage Reduction PowerUp     | All bodyshots deal 10 damage and all headshots 20 damage       | ✅       |
 | Death Bomb PowerUp     | After player is killed, he will explode and deal damage to nearby players       | ✅       |
 | Decoy PowerUp     | Player is able to place limited decoys of his own model       | ✅       |
 | ExtraHealth PowerUp     | At the beginning of the round the player receives between 100-200 Extra Health       | ✅       |
+| Fly PowerUp     | Player can fly while holding his Jump Key      | ✅       |
 | Infinite Ammo PowerUp    | Player has infinite ammo on all his weapons in this round       | ✅       |
 | Invisibility PowerUp     | Player is invisible while holding his knife       | ✅       |
 | LowGravity PowerUp     | Player gravity gets decreased in this round alowing higher jumps       | ✅       |
